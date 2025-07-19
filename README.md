@@ -54,19 +54,6 @@ Launch the notebook:
    ```
 ---
 
-## 📊 Sample Visualizations
-Here are some of the plots and charts included:
-
-Line charts showing stock price trends
-
-Volume over time
-
-Correlation matrix heatmaps
-
-Histograms of price distributions
-
----
-
 ## 📝 Future Enhancements
 Incorporate predictive modeling (e.g., ARIMA, LSTM)
 
