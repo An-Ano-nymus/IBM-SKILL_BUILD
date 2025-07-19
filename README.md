@@ -66,10 +66,6 @@ Automate data fetching from APIs (e.g., Yahoo Finance)
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
 
----
-
-## 📜 License
-This project is licensed under the MIT License.
 
 ---
 
