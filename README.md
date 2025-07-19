@@ -90,9 +90,5 @@ Author: Raghav Garg
 Institution: Bharati Vidyapeeth College of Engineering-Delhi
 Graduation: 2026
 
-yaml
-
 
 ---
-
-Would you like me to also create a `requirements.txt` file based on the libraries used in your noteboo
