@@ -52,8 +52,9 @@ Launch the notebook:
    ```bash
    jupyter notebook IBM_SHELL_EDA.ipynb
    ```
+---
 
-##📊 Sample Visualizations
+## 📊 Sample Visualizations
 Here are some of the plots and charts included:
 
 Line charts showing stock price trends
@@ -64,6 +65,8 @@ Correlation matrix heatmaps
 
 Histograms of price distributions
 
+---
+
 ##📝 Future Enhancements
 Incorporate predictive modeling (e.g., ARIMA, LSTM)
 
@@ -71,11 +74,17 @@ Add interactive dashboards using Plotly/Dash
 
 Automate data fetching from APIs (e.g., Yahoo Finance)
 
+---
+
 ##🤝 Contributing
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
 
+---
+
 ##📜 License
 This project is licensed under the MIT License.
+
+---
 
 Author: Raghav Garg
 Institution: Bharati Vidyapeeth College of Engineering-Delhi
