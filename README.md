@@ -43,17 +43,15 @@ To understand and visualize the trends and relationships in IBM Shell's stock pe
    cd ibm-shell-eda
 Install the required dependencies:
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
+   ```
+
 Launch the notebook:
 
-bash
-Copy
-Edit
-jupyter notebook IBM_SHELL_EDA.ipynb
-
+   ```bash
+   jupyter notebook IBM_SHELL_EDA.ipynb
+   ```
 
 ##📊 Sample Visualizations
 Here are some of the plots and charts included:
@@ -84,8 +82,7 @@ Institution: Bharati Vidyapeeth College of Engineering-Delhi
 Graduation: 2026
 
 yaml
-Copy
-Edit
+
 
 ---
 
