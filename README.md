@@ -92,8 +92,8 @@ Ensure you have Python 3 installed along with the necessary libraries.
 ### Installation
 Clone the repository and install the required packages:
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone [<repository-url>](https://github.com/An-Ano-nymus/IBM-SKILL_BUILD.git)
+cd [<repository-directory>](https://github.com/An-Ano-nymus/IBM-SKILL_BUILD.git)
 pip install -r requirements.txt
 ```
 
