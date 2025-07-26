@@ -76,9 +76,6 @@ The plots visualize how each model partitions the feature space.
 * **KNN** results in a patchy, instance-based map.
 * **SVR** generates smooth, non-linear curves.
 
-<p align="center">
-  <img src="https://i.imgur.com/k6lP09V.png" width="800" alt="Decision Region Plots">
-</p>
 
 ## 💡 Key Findings and Insights
 
